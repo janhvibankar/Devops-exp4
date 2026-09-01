@@ -16,3 +16,7 @@ function addTask() {
 
     taskInput.value = "";
 }
+
+function toggleDarkMode() {
+    document.body.classList.toggle("dark-mode");
+}
