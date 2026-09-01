@@ -72,3 +72,26 @@ h2 {
     margin-top: 10px;
     border-radius: 6px;
 }
+
+.dark-mode {
+    background: #222;
+    color: white;
+}
+
+.dark-mode .container {
+    background: #333;
+}
+
+.dark-mode .subtitle {
+    color: #ddd;
+}
+
+.dark-mode #taskList li {
+    background: #444;
+}
+
+.dark-mode #taskInput {
+    background: #555;
+    color: white;
+    border-color: #777;
+}
