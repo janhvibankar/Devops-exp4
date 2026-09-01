@@ -1,0 +1,3 @@
+Team Task Manager
+Version: 1.0
+Release: Production Release
